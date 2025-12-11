@@ -152,14 +152,6 @@ http://localhost:8080/swagger-ui/index.html
 Pull requests and suggestions are welcome.
 
 
-
-
-📜 License
-
-Open-source under the MIT License.
-
-
-
 👨‍💻 Author
 
 Jay Patil
